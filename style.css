@@ -1,0 +1,62 @@
+h1{
+    color: aqua;
+    text-align: center;
+}
+
+div{
+    background-color: blueviolet;
+    border: 3px solid black;
+    color: cornsilk;
+    width: 110px;
+    height: 110px;
+    padding: 5px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-style: italic;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 4px;
+}
+
+ul>li{
+    color: cadetblue;
+}
+
+a{
+    color:cornflowerblue;
+}
+
+a[href="https://tesla.com"]{
+    color: crimson;
+}
+
+button{
+    width: 200px;
+    height: 50px; 
+    font-size: 24px;
+    color:gainsboro;
+    background-color: rgb(20, 130, 220);
+}
+
+button:hover{
+    background-color: darkolivegreen;
+}
+
+@media(min-width: 600px){
+    body{
+        background-color: gray;
+    }
+}
+@media(max-width: 599px){
+    body{
+        background-color: honeydew;
+    }
+}
