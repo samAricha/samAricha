@@ -1,4 +1,3 @@
-[![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://arichasamson.com)
 [![MasterHead](https://thumbs.gfycat.com/DarlingGivingDragonfly-size_restricted.gif)](https://arichasamson.com)
 <h1 align="center">Hi 👋, Aricha Samson here</h1>
 <h3 align="center">A passionate problem solver using Android and Web</h3>
