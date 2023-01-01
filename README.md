@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **samaricha001@gmail.com, +254708392326**
 
-- ⚡ Fun fact **If you hire me i'll outrank you one day.**
+- ⚡ Fun fact **...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
