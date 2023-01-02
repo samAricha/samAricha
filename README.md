@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Aricha Samson here</h1>
+<h1 align="center">Hi 👋, Aricha here</h1>
 <h3 align="center">A passionate problem solver using Android and Web</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.hiddenbrains.com/blog/wp-content/uploads/2019/07/kotlin-for-android-app-development.gif">
