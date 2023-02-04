@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aricha_samson" target="blank"><img src="https://img.shields.io/twitter/follow/aricha_samson?logo=twitter&style=for-the-badge" alt="aricha_samson" /></a> </p>
 
-- 🔭 I’m currently working on **AfKash**
+- 🔭 I’m currently working on **AfKash** using Android-Kotlin and Laravel
 
 - 🌱 I’m currently learning **Vue js**
 
