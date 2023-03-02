@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.arichasamson.com](www.arichasamson.com)
 
-- 💬 Ask me about **Android, Laravel**
+- 💬 Ask me about **Android, Spring Boot and Laravel**
 
 - 📫 How to reach me **samaricha001@gmail.com, +254708392326**
 
