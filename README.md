@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AfKash** using **Android-Kotlin** and **Laravel**
 
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [www.arichasamson.com](www.arichasamson.com)
 
