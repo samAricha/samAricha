@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/aricha_samson" target="blank"><img src="https://img.shields.io/twitter/follow/aricha_samson?logo=twitter&style=for-the-badge" alt="aricha_samson" /></a> </p>
 
-- 🔭 I’m currently working on **AfKash** using **Android-Kotlin** and **Laravel**
+- 🔭 I’m currently working on **Teka** using **Kotlin**, **Laravel** and **Vue Js**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [www.arichasamson.com](www.arichasamson.com)
 
