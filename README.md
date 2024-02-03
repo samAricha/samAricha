@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Teka** using **Kotlin**, **Laravel** and **Vue Js**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **KotlinMultiplatform**
 
 - 👨‍💻 All of my projects are available at [www.arichasamson.com](www.arichasamson.com)
 
-- 💬 Ask me about **Android, Spring Boot and Laravel**
+- 💬 Ask me about **Kotlin Multiplatform, Android, Kotlin, Laravel, Vuejs and Spring Boot**
 
-- 📫 How to reach me **samaricha001@gmail.com, +254708392326**
+- 📫 How to reach me **samaricha001@gmail.com**
 
 - ⚡ Fun fact **...**
 
