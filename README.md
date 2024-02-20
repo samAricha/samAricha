@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aricha_samson" target="blank"><img src="https://img.shields.io/twitter/follow/aricha_samson?logo=twitter&style=for-the-badge" alt="aricha_samson" /></a> </p>
 
-- 🔭 I’m currently working on **Teka** using **Kotlin**, **Laravel** and **Vue Js**
+- 🔭 I’m currently working on **Teka** using **Kotlin**, **Kotlin Multiplatform**, **Laravel** and **Vue Js**
 
 - 🌱 I’m currently learning **KotlinMultiplatform**
 
